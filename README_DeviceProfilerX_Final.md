@@ -42,6 +42,7 @@
 ```bash
 pkg install python -y
 pip install colorama
+git clone https://github.com/EncrypterMafia/DeviceProfilerX.git
 ```
 
 ---
