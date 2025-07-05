@@ -1,10 +1,7 @@
 
 <h1 align="center">☠️ DeviceProfilerX v2 - LAN Device Identifier ☠️</h1>
 
-![Hacker banner]
-
 ![Screenshot_2025-07-02-13-06-57-373_com instagram android~2](https://github.com/user-attachments/assets/1becc809-555f-49fd-9fca-ad86c74391bd)
-
 ..
 
 <p align="center">
