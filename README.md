@@ -44,6 +44,7 @@
 pkg install python -y
 pip install colorama
 git clone https://github.com/EncrypterMafia/DeviceProfilerX.git
+cd DeviceProfilerX
 ```
 
 ---
@@ -81,5 +82,7 @@ python DeviceProfilerX.py
 📲 Telegram: [@EncrypterMafia](https://t.me/EncrypterMafia)
 
 ---
+![Screenshot_2025-07-02-13-06-57-373_com instagram android~2](https://github.com/user-attachments/assets/3eec3599-80a8-4108-8eaa-39795981f3dc)
+
 
 > ☠️ *Turn your LAN into a battlefield of intel. Hunt quietly. Hack loud.*
