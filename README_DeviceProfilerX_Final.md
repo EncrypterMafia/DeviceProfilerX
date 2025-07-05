@@ -2,8 +2,8 @@
 <h1 align="center">☠️ DeviceProfilerX v2 - LAN Device Identifier ☠️</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/BvxF9M5.png" width="600" alt="Hacker Banner">
-</p>
+  <img src="![Hacker banner](https://github.com/user-attachments/assets/ce2ab9c1-480b-4df3-b0af-56afe36d094f)"
+..
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tool-ProfilerX-red?style=for-the-badge&logo=python">
@@ -14,8 +14,9 @@
 ---
 
 ## 🎥 Demo Preview
+![Screenshot_2025-07-05-17-31-34-120_com termux~2](https://github.com/user-attachments/assets/bf8571cf-0956-491f-9cc4-462682093887)
 
-![ProfilerX Terminal Demo](https://i.imgur.com/LbYRCX2.gif)
+
 
 ---
 
