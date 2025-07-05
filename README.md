@@ -1,7 +1,9 @@
 
 <h1 align="center">☠️ DeviceProfilerX v2 - LAN Device Identifier ☠️</h1>
 
-![Hacker banner](https://github.com/user-attachments/assets/87f0ffa2-b1b9-466f-9209-4268f95f0f9f)
+![Hacker banner]
+
+![Screenshot_2025-07-02-13-06-57-373_com instagram android~2](https://github.com/user-attachments/assets/1becc809-555f-49fd-9fca-ad86c74391bd)
 
 ..
 
@@ -82,7 +84,6 @@ python DeviceProfilerX.py
 📲 Telegram: [@EncrypterMafia](https://t.me/EncrypterMafia)
 
 ---
-![Screenshot_2025-07-02-13-06-57-373_com instagram android~2](https://github.com/user-attachments/assets/3eec3599-80a8-4108-8eaa-39795981f3dc)
 
 
 > ☠️ *Turn your LAN into a battlefield of intel. Hunt quietly. Hack loud.*
