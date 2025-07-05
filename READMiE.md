@@ -1,8 +1,8 @@
 
 <h1 align="center">☠️ DeviceProfilerX v2 - LAN Device Identifier ☠️</h1>
 
-<p align="center">
-  <img src="![Hacker banner](https://github.com/user-attachments/assets/ce2ab9c1-480b-4df3-b0af-56afe36d094f)"
+![Hacker banner](https://github.com/user-attachments/assets/87f0ffa2-b1b9-466f-9209-4268f95f0f9f)
+
 ..
 
 <p align="center">
