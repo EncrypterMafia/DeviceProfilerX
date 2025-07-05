@@ -49,7 +49,7 @@ pip install colorama
 ## ⚔️ Run the Tool
 
 ```bash
-python DeviceProfilerX_v2.py
+python DeviceProfilerX.py
 ```
 
 ---
