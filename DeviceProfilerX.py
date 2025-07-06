@@ -28,7 +28,7 @@ FALLBACK_PREFIXES = {
 def banner():
     os.system("clear")
     print(Fore.RED + "╔" + "═" * 60 + "╗")
-    print(Fore.RED + "║" + Fore.LIGHTRED_EX + "   ☠️ Device Profiler v2 - with Fallback Detection ☠️".center(60) + Fore.RED + "║")
+    print(Fore.RED + "║" + Fore.LIGHTRED_EX + "   ☠️ Device Profiler v2 by KK - with Fallback Detection ☠️".center(60) + Fore.RED + "║")
     print(Fore.RED + "╠" + "═" * 60 + "╣")
     print(Fore.YELLOW + "     Works even if hostname is not available (IP Guess)")
     print(Fore.RED + "╚" + "═" * 60 + "╝\n")
